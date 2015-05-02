@@ -1,6 +1,18 @@
 [
   {
     "remote": "cm",
+    "repository": "android_device_sony_common",
+    "target_path": "device/sony/common",
+    "revision": "cm-12.1"
+  },
+  {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-12.1"
+  },
+  {
+    "remote": "cm",
     "repository": "android_device_sony_msm8960-common",
     "target_path": "device/sony/msm8960-common",
     "revision": "cm-12.1"
